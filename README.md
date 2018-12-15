@@ -7,9 +7,7 @@
 - [ImageNet](http://image-net.org)
 - Selected Data: [Dropbox-url](https://www.dropbox.com/sh/rkjlr6zlnbwvp5v/AABhfIzJNvye_TyBxsM0Gj9Qa?dl=0)
 
----
-
-### Team Members:
-- Vishal Anand
-- Sharon Chen
-- Lauren Williams
+## Team Members:
+- Vishal Anand    ([@vishalanand](https://github.com/vishalanand/))
+- Sharon Chen     ([@toad22222](https://github.com/toad22222/))
+- Lauren Williams ([@lbwilliams](https://github.com/lbwilliams/))
